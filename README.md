@@ -1,3 +1,6 @@
+# Welcome to My Tu Verras
+My tu verras
+
 ## Task
 House price is a recurring subject nowadays. In this project, you will build a model to predict the price base on predefined criteria.
 
@@ -28,7 +31,9 @@ From a quick look, we know what is inside our dataset, like the different attrib
 • MEDV Median value of owner-occupied homes is $ 1000's
 
 ## Installation
-No Installation
+pip install sklearn
+pip install seaborn
+pip install -U scikit-learn
 
 ## Usage
 When the coefficient is close to 1 (in absolute value), there is a strong correlation between the two variables. If it is positive, it means the linear correction is positive. If it is negative... you get it.
@@ -48,4 +53,6 @@ Numbers are cool, but we, as human beings, love colors, pictures, and visual rep
 → Plot every attribute against each other.
 
 hint: Visualizing every component against each other is usually done with a scatter matrix.
+
+### The Core Team
 
