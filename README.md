@@ -1,10 +1,43 @@
 ## Welcome
 
-Welcome to the Boston Housing Dataset Exploration and Linear Regression Modeling script. This script is designed to load the Boston housing dataset, perform data exploration and visualization, fit a linear regression model, make predictions, and evaluate the model's performance.
+Welcome to the Boston Housing Dataset Exploration and Linear Regression Modeling script.
 
 ## Description
 
-The script is written in Python and utilizes popular libraries such as Pandas, NumPy, Matplotlib, and scikit-learn. It covers various aspects of data analysis, including data loading, cleaning, visualization, correlation analysis, and linear regression modeling.
+This script, written in Python, aims to explore the Boston housing dataset, perform data analysis and visualization, and build a linear regression model. The script uses popular libraries such as Pandas, NumPy, Matplotlib, and scikit-learn to conduct various aspects of data analysis, including data loading, cleaning, visualization, correlation analysis, and linear regression modeling.
+
+## Installation
+
+To run this script, follow these installation steps:
+
+1. Clone the repository to your local machine:
+
+    ```bash
+    git clone https://github.com/qorahoja/02-Data-Science-My-Tu-Verras.git
+    ```
+
+2. Navigate to the project directory:
+
+    ```bash
+    cd 02-Data-Science-My-Tu-Verras
+
+    ```
+
+3. Install the required dependencies:
+
+    ```bash
+    pip install pandas numpy matplotlib scikit-learn
+    ```
+
+## Usage
+
+To use the script, follow these steps:
+
+1. Open the script in your preferred Python environment.
+
+2. Run the script.
+
+3. Follow the on-screen instructions to explore the Boston Housing Dataset and analyze the linear regression model.
 
 ## Tasks
 
@@ -29,6 +62,3 @@ The script is written in Python and utilizes popular libraries such as Pandas, N
 ## Team
 
 - Qorahojayev Muhammad Tursunboyev Sanjar
-
-
-
